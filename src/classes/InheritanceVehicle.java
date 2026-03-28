@@ -1,7 +1,7 @@
 package classes;
 
 public class InheritanceVehicle {
-    private String engine;
+    private String engine = "AABC";
 
     public InheritanceVehicle(String engine) {
         this.engine = engine;
